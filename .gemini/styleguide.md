@@ -1,6 +1,8 @@
-# Company X Python Style Guide
+# Gemini Code Assist Style Guide
 
-코드 리뷰 결과는 한글로 설명해주세요
+## Language
+
+Please provide all code reviews, summaries, and help messages in Korean (한글).
 
 # Introduction
 This style guide outlines the coding conventions for Python code developed at Company X.
